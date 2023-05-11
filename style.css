@@ -122,6 +122,11 @@ h2{
     background-color:hsl(224, 30%, 27%);
     width:100%;
     padding: 20px;
+    text-decoration: none;
+}
+
+.btn:hover{
+    background-image:linear-gradient(hsl(252, 100%, 64%), hsl(241, 81%, 54%));
 }
 
 .txt{
