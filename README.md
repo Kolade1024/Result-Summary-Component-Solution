@@ -13,9 +13,9 @@ This is a solution to the [Design preview for the Results summary component codi
 ## Overview
 
 
-- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/mobilefirst-solution-using-flexbox-qr-code-component-4a-xA4Ajwi)
+- Solution URL: [solution URL](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV/hub)
 
-- Live Site URL: [live site URL](https://kolade1024.github.io/Frontend-Mentor-Projects)
+- Live Site URL: [live site URL](https://kolade1024.github.io/Result-Summary-Component-Solution/)
 
 
 
