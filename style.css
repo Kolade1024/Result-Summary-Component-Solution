@@ -7,6 +7,10 @@
     box-sizing: border-box;
 }
 
+body{
+    max-height: 100vh;
+}
+
 img, .main_score{
     display:block;
 }
@@ -159,8 +163,10 @@ h2{
 .attribution{
     position: relative;
     bottom: 0;
-    font-family: inherit;
-    font-size: 1rem;
+    font-family: "Hanken Grotesk";
+    font-size: 0.8rem;
+    font-weight: 700;
+    margin-top: 1rem;
 }
 
 /* /* || MOBILE DEVICE
@@ -171,7 +177,7 @@ h2{
  */
 
 /* || DESKTOP DEVICE */
-@media screen and (min-width: 1400px )
+@media screen and (min-width: 1200px )
 {
     body{
         display: flex;
